@@ -1,7 +1,7 @@
 # Image-Captioning-
 
-In this project, i systematically analyze a deep neural networks based image
-caption generation method. With an image as the input, the method can output an
+In this project, i use deep neural networks for image
+caption generation . With an image as the input, the method can output an
 English sentence describing the content in the image. I analyze three components
 of the method: convolutional neural network (CNN), recurrent neural network
 (RNN) and sentence generation. By replacing the CNN part with three state-ofthe-
